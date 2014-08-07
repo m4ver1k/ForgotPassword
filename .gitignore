@@ -1,0 +1,62 @@
+# Build
+/target
+/dist
+*.class
+.classpath
+src/main/webapp/WEB-INF/classes/
+MANIFEST.MF
+src/main/resources/schema_out.sql
+# Package Files
+*.jar
+*.war
+*.ear
+*.jar
+# Keys
+AwsCredentials.properties
+privatekey.pem
+*.pem
+# Eclipse
+.project
+.settings/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.externalToolBuilders/
+*.launch
+.target
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+# virtual machine crash logs
+hs_err_pid*
+# Emacs
+*~
+\#*\#
+*.elc
+auto-save-list
+tramp
+.\#*
+#SVN
+.svn/
+branches/.svn/entries
+.svn/entries
+branches/.svn/all-wcprops
+.svn/all-wcprops
