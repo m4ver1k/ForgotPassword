@@ -12,7 +12,7 @@ Enter your registered email address:
 		<table>
 			<tr>
 
-				<td colspan="2"><input type="text" name="email"> </td>
+				<td colspan="2"><input type="text" name="lujain.nr@hotmail.com"> </td>
 			</tr>
 			
 			<tr>
